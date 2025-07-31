@@ -1,0 +1,117 @@
+{
+  "levels": [
+    {
+      "name": "Tutorial 1",
+      "rows": 5, "columns": 1,
+      "squares": [
+        "rs",
+        "rf",
+        "bf",
+        "rf",
+        "bf"
+      ],
+      "eyeball_row": 4,
+      "eyeball_column": 0,
+      "eyeball_direction": "u",
+      "goals": [{"row":  0, "column":  0}]
+    },
+
+    {
+      "name": "Tutorial 2",
+      "rows": 3, "columns": 3,
+      "squares": [
+        "gd", "rd", "rs",
+        "rs", "xx", "gc",
+        "rd", "rs", "ys"
+      ],
+      "eyeball_row": 2,
+      "eyeball_column": 1,
+      "eyeball_direction": "u",
+      "goals": [{"row":  0, "column":  1}]
+    },
+
+    {
+      "name": "Tutorial 3",
+      "rows": 4, "columns": 2,
+      "squares": [
+        "rc", "bd",
+        "bd", "yd",
+        "rc", "yc",
+        "bs", "ys"
+      ],
+      "eyeball_row": 3,
+      "eyeball_column": 0,
+      "eyeball_direction": "u",
+      "goals": [{"row":  0, "column":  0}]
+    },
+
+    {
+      "name": "Tutorial 4",
+      "rows": 4, "columns": 3,
+      "squares": [
+        "rc", "rd", "bd",
+        "bd", "yd", "rc",
+        "yd", "gs", "ys",
+        "rd", "rc", "bc"
+      ],
+      "eyeball_row": 3,
+      "eyeball_column": 1,
+      "eyeball_direction": "u",
+      "goals": [
+        {"row":  0, "column":  0},
+        {"row":  0, "column":  2}
+      ]
+    },
+
+    {
+      "name": "Level 1",
+      "rows": 6, "columns": 4,
+      "squares": [
+        "xx", "xx", "rf", "xx",
+        "bc", "yf", "yd", "gc",
+        "gf", "rs", "gs", "yd",
+        "rf", "bf", "rs", "gf",
+        "bs", "rd", "bf", "bd",
+        "xx", "bd", "xx", "xx"
+      ],
+      "eyeball_row": 5,
+      "eyeball_column": 1,
+      "eyeball_direction": "u",
+      "goals": [{"row":  0, "column":  2}]
+    },
+
+    {
+      "name": "Level 2",
+      "rows": 6, "columns": 4,
+      "squares": [
+        "xx", "xx", "rf", "xx",
+        "bc", "bf", "bd", "gc",
+        "gf", "rs", "gs", "yf",
+        "rf", "gd", "rs", "ys",
+        "gc", "rd", "bf", "gd",
+        "xx", "bd", "xx", "xx"
+      ],
+      "eyeball_row": 5,
+      "eyeball_column": 1,
+      "eyeball_direction": "u",
+      "goals": [{"row":  0, "column":  2}]
+    },
+
+    {
+      "name": "Level 3",
+      "rows": 6, "columns": 5,
+      "squares": [
+        "xx", "xx", "xx", "rs", "xx",
+        "rs", "gd", "bc", "gs", "bf",
+        "gf", "rd", "gd", "ys", "bs",
+        "gd", "yd", "gc", "rs", "yc",
+        "rf", "yc", "bf", "gc", "ys",
+        "xx", "bd", "xx", "xx", "xx"
+      ],
+      "eyeball_row": 5,
+      "eyeball_column": 1,
+      "eyeball_direction": "u",
+      "goals": [{"row":  0, "column":  3}]
+    }
+  ]
+}

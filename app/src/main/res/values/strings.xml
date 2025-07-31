@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Eyeball Maze</string>
+    <string name="start_game">Start Game</string>
+    <string name="message_if_different_shape_or_colour">Square must be same shape OR colour as current square.</string>
+    <string name="message_if_backwards_move">Backwards moves are not allowed.</string>
+    <string name="message_if_moving_over_blank">You can not cross over a blank square.</string>
+    <string name="message_if_moving_diagonally">Diagonal moves are not allowed.</string>
+    <string name="message_if_same_square">You can\'t move to the same square.</string>
+    <string name="next_level">Next Level</string>
+    <string name="restart_level">Restart Level</string>
+    <string name="show_moves">Show Moves</string>
+    <string name="goals">Goals:</string>
+    <string name="moves">Moves:</string>
+    <string name="time">Time:</string>
+    <string name="paused">Game Paused</string>
+    <string name="time_taken">Time taken:</string>
+    <string name="completed">Completed</string>
+    <string name="seconds">seconds</string>
+    <string name="failed">Failed</string>
+    <string name="failed_reason">There are no possible moves left.</string>
+    <string name="undo">Undo Move</string>
+    <string name="load_level_set">Load Level Set</string>
+    <string name="save_game">Save Game</string>
+    <string name="load_game">Load Game</string>
+    <string name="error_file_not_found">No save game file found.</string>
+    <string name="error_parse">Failed to parse json data.</string>
+    <string name="game_saved">Game saved.</string>
+    <string name="game_loaded">Game loaded.</string>
+</resources>

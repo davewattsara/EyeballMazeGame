@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/restartLevelMenuItem"
+        android:title="@string/restart_level" />
+    <item
+        android:id="@+id/showMovesMenuItem"
+        android:title="@string/show_moves" />
+    <item
+        android:id="@+id/undoMenuItem"
+        android:title="@string/undo" />
+    <item
+        android:id="@+id/loadLevelSetMenuItem"
+        android:title="@string/load_level_set" />
+    <item
+        android:id="@+id/saveGameMenuItem"
+        android:title="@string/save_game" />
+    <item
+        android:id="@+id/loadGameMenuItem"
+        android:title="@string/load_game" />
+
+</menu>

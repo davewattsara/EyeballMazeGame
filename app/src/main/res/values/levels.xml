@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="level_1">
+        <!-- first item is rows second item is columns -->
+        <item>6</item>
+        <item>4</item>
+
+        <!-- next row*column items are the level drawables
+        <item>@drawable/background</item><item>@drawable/background</item><item>@drawable/flower_red</item><item>@drawable/background</item>
+        <item>@drawable/cross_blue</item><item>@drawable/flower_yellow</item><item>@drawable/diamond_yellow</item><item>@drawable/cross_green</item>
+        <item>@drawable/flower_green</item><item>@drawable/star_red</item><item>@drawable/star_green</item><item>@drawable/diamond_yellow</item>
+        <item>@drawable/flower_red</item><item>@drawable/flower_blue</item><item>@drawable/star_red</item><item>@drawable/flower_green</item>
+        <item>@drawable/star_blue</item><item>@drawable/diamond_red</item><item>@drawable/flower_blue</item><item>@drawable/diamond_blue</item>
+        <item>@drawable/background</item><item>@drawable/diamond_blue</item><item>@drawable/background</item><item>@drawable/background</item>
+        -->
+
+        <!-- next 2 items are the row and column of the starting square -->
+        <item>5</item>
+        <item>1</item>
+
+        <!-- the next item is the number of goals followed by row then column for each goal -->
+        <item>1</item>
+        <item>0</item>
+        <item>2</item>
+    </array>
+</resources>
